@@ -8,6 +8,7 @@ function HelpBox({ title, text }) {
       <h2>{title}</h2>
       <p>{text}</p>
     </article>//comment
+    //Add yet another comment
   );
 }
 
